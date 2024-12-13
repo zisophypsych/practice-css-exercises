@@ -1,0 +1,24 @@
+.one,.three,.five {
+    background-color: pink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 40px;
+}
+
+#four {
+    color: black;
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.three{
+    font-size: 30px;
+}
+
+.one,.five{
+    font-size: 20px;
+}
