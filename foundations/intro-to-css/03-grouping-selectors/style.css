@@ -1,0 +1,14 @@
+#click {
+    color: white;
+    font-weight: 800;
+    background-color: black;
+}
+
+.common-class {
+    font-size: 50px;
+    border-top-color: grey;
+}
+
+#noclick {
+    background-color: yellow;
+}
